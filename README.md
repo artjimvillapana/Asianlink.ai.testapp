@@ -28,7 +28,8 @@ git clone https://github.com/your-username/asialink-ai.git
 
 ### Changes made:
 
-- **APK Download Section**: Added a new section to include the **APK download link** for easy access.
+- **APK Download Section**: **APK download link** below for easy access.
+- https://drive.google.com/file/d/18dhOcTRicG3YGfTwVfgdQ--irugBR8Or/view?usp=sharing
 - **Link Formatting**: The link is formatted properly for easy clicking.
 
 Now users can directly download the APK from your provided Google Drive link. Let me know if you need further adjustments!
